@@ -1,10 +1,11 @@
 {
-    "name": "VIVA ESPAÑA",
+    "name": "VIVA ESPAÑA :)",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
